@@ -1,0 +1,6 @@
+Log file created at: 2024/01/26 14:15:22
+Running on machine: 4e979f682e62
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0126 14:15:22.217195   750 mulls_slam.cpp:332] [12] threads availiable in total
+W0126 14:16:29.410600   750 cregistration.hpp:1309] Too few neccessary correspondences
+W0126 14:16:29.420706   750 cregistration.hpp:1309] Too few neccessary correspondences

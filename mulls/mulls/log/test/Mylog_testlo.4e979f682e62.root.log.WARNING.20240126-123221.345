@@ -1,0 +1,39 @@
+Log file created at: 2024/01/26 12:32:21
+Running on machine: 4e979f682e62
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0126 12:32:21.905354   345 mulls_slam.cpp:332] [12] threads availiable in total
+W0126 12:32:21.973423   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.013808   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.054955   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.093633   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.130627   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.176715   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.223443   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.274704   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.331197   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.383882   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.437494   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.489409   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.549293   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.602526   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.650024   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.700284   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.752334   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.800580   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.847635   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.896783   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:22.949086   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.003496   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.057768   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.123944   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.179687   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.231416   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.285429   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.339442   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.392547   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.450353   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.503614   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.552803   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.632412   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.728474   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple
+W0126 12:32:23.791579   345 map_viewer.hpp:1614] Ground - Silver, Pillar - Green, Beam - Yellow, Facade - Blue, Roof - Red, Vertex - Purple

@@ -1,0 +1,5 @@
+Log file created at: 2024/01/26 12:30:05
+Running on machine: 4e979f682e62
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0126 12:30:05.533655   323 dataio.hpp:923] open filename_list failed, file is: /home/os0_newer_college/catacombs_easy/pcd_filelist.txt
+W0126 12:30:05.533859   323 mulls_slam.cpp:332] [12] threads availiable in total

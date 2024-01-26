@@ -1,0 +1,4 @@
+sudo bash run.sh /home/simone/Desktop/floam/floam/ /media/simone/PortableSSD/datasets/
+source devel/setup.bash
+catkin_make
+roslaunch floam floam_os0.launch

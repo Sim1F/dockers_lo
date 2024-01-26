@@ -1,0 +1,10 @@
+sudo ./build.sh
+sudo bash run.sh /media/simono/PortableSSD/datasets
+
+kiss_icp_pipeline --visualize quad_easy/
+kiss_icp_pipeline --visualize os0_newer_college/stairs/os/2021-07-01-10-40-50_0-stairs.bag --topic /os_cloud_node/points
+
+sudo docker commit kiss_icp_container kiss_icp_docker:latest
+
+for compiling move in /app/kiss-icp/python:
+pip install --verbose .

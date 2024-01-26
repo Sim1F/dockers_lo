@@ -1,0 +1,6 @@
+sudo ./run.sh /media/simone/PortableSSD/datasets/ /home/simone/Desktop/mulls/mulls/
+mkdir build
+cd build
+cmake ..
+make 
+cd ..

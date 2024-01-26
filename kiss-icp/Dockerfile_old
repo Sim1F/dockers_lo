@@ -1,0 +1,26 @@
+# Use a Python base image
+FROM ubuntu:20.04
+
+# Install g++ and python3-pip
+RUN apt-get update && apt-get install -y g++ python3-pip
+
+# Create a destination folder inside the image
+RUN mkdir app
+
+# Copy the contents of the source folder to the destination folder
+COPY kiss-icp/. /app/kiss-icp
+
+# Set the working directory to the python folder
+WORKDIR /app/kiss-icp/python
+
+# Install the package using pip
+RUN pip install --verbose .
+
+RUN pip install -U rosbags
+RUN pip install open3d
+
+# nvidia-container-runtime
+ENV NVIDIA_VISIBLE_DEVICES ${NVIDIA_VISIBLE_DEVICES:-all}
+ENV NVIDIA_DRIVER_CAPABILITIES ${NVIDIA_DRIVER_CAPABILITIES:+$NVIDIA_DRIVER_CAPABILITIES,}graphics
+
+RUN apt-get update && apt-get install -y libgl1
